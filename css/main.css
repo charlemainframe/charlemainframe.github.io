@@ -3,7 +3,7 @@ a {text-decoration: none;
 }
 
 img {
- max-width: 100%; 
+ max-width: 100%;
 }
 
 #wrapper {
@@ -25,7 +25,7 @@ header {
 }
 
 h1 {
- font-family: 'Changa One', sans-serif; 
+ font-family: 'Changa One', sans-serif;
  margin: 15px 0;
  font-size: 1.75em;
  font-weight: normal;
@@ -40,7 +40,7 @@ h2 {
 
 h3 {
  margin: 0 0 1em 0;
- 
+
 }
 
 header {
@@ -77,13 +77,13 @@ nav ul {
 }
 
 nav li {
- display: inline-block; 
+ display: inline-block;
 }
 
 nav a {
  font-weight: 800;
  padding: 15px 10px;
-  
+
 }
 
 /* site bod */
@@ -166,7 +166,7 @@ PAGE: CONTACT
 }
 
 .contact-info li.phone a {
- background-image: url('../img/phone.png'); 
+ background-image: url('../img/phone.png');
 }
 
 .contact-info li.email a {
@@ -175,4 +175,8 @@ PAGE: CONTACT
 
 .contact-info li.twitter a {
  background-image: url('../img/twitter.png');
+}
+
+.contact-info li.github a {
+ background-image: url('../img/github.png')
 }
